@@ -8,7 +8,7 @@ This project is based on the popular Christmas game __Secret Santa__ where frien
 <details>
 <summary>Some images of the application </summary> 
 
-* Welcome Page
+* Welcome Pages
 
 ![Welcome](https://github.com/NotTheBest/secretsanta-generator/blob/master/preview-images/welcomepage.png?raw=true)
 
