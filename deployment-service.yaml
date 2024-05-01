@@ -14,8 +14,8 @@ spec:
     spec:
       containers:
         - name: santa
-          image: adijaiswal/santa:latest # Image that will be used to containers in the cluster
-          imagePullPolicy: IfNotPresent
+          image: prashantritgit/santa123:latest # Image that will be used to containers in the cluster
+          imagePullPolicy: Always
           ports:
             - containerPort: 8080 # The port that the container is running on in the cluster
 
